@@ -1,0 +1,19 @@
+1.
+    "basics": {
+    "name": "Reshil obeth",
+    "Gender":"Male",
+    "Age":"21",
+    "email": "reshilobeth5510@gmail.com",
+   }
+
+2        Window:
+         The JavaScript window object sits at the top of the JavaScript Object 
+         hierarchy and represents the browser window. The window object 
+         is supported by all browsers.
+
+
+         Screen:
+         Screen is a small information object about physical screen dimensions 
+         of the user device. It can be used to display screen width, height, colorDepth, 
+         pixelDepth etc. It is not mandatory to write window prefix with screen object 
+         like window.screen. It can be written without window prefix.
