@@ -1,9 +1,9 @@
 1.
     "basics": {
-    "name": "Reshil obeth",
-    "Gender":"Male",
-    "Age":"21",
-    "email": "reshilobeth5510@gmail.com",
+    name: "Reshil obeth",
+    Gender:"Male",
+    Age:21,
+    email: "reshilobeth5510@gmail.com",
    }
 
 2        Window:
